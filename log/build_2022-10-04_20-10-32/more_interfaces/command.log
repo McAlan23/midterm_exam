@@ -1,0 +1,2 @@
+Invoking command in '/home/beka/ros2_foxy/src/more_interfaces/build/more_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/beka/ros2_foxy/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/beka/ros2_foxy/src/more_interfaces/install/more_interfaces
+Invoked command in '/home/beka/ros2_foxy/src/more_interfaces/build/more_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/beka/ros2_foxy/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/beka/ros2_foxy/src/more_interfaces/install/more_interfaces
