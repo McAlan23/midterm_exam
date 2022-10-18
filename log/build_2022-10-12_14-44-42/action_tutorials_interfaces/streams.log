@@ -1,0 +1,47 @@
+[0.027s] Invoking command in '/home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/beka/ros2_foxy/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces
+[0.266s] -- The C compiler identification is GNU 11.2.0
+[0.474s] -- The CXX compiler identification is GNU 11.2.0
+[0.494s] -- Detecting C compiler ABI info
+[0.563s] -- Detecting C compiler ABI info - done
+[0.568s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.570s] -- Detecting C compile features
+[0.572s] -- Detecting C compile features - done
+[0.578s] -- Detecting CXX compiler ABI info
+[0.658s] -- Detecting CXX compiler ABI info - done
+[0.662s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.662s] -- Detecting CXX compile features
+[0.662s] -- Detecting CXX compile features - done
+[0.674s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.816s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.972s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.060s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.060s] -- Configured cppcheck include dirs: 
+[1.060s] -- Configured cppcheck exclude dirs and/or files: 
+[1.062s] -- Added test 'lint_cmake' to check CMake code style
+[1.065s] -- Added test 'uncrustify' to check C / C++ code style
+[1.066s] -- Configured uncrustify additional arguments: 
+[1.067s] -- Added test 'xmllint' to check XML markup files
+[1.069s] -- Configuring done
+[1.071s] -- Generating done
+[1.072s] -- Build files have been written to: /home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces
+[1.076s] Invoked command in '/home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/beka/ros2_foxy/src/action_tutorials_interfaces -DCMAKE_INSTALL_PREFIX=/home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces
+[1.077s] Invoking command in '/home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces -- -j4 -l4
+[1.106s] Invoked command in '/home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces -- -j4 -l4
+[1.130s] Invoking command in '/home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces
+[1.136s] -- Install configuration: ""
+[1.137s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/ament_index/resource_index/package_run_dependencies/action_tutorials_interfaces
+[1.137s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/ament_index/resource_index/parent_prefix_path/action_tutorials_interfaces
+[1.138s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/environment/ament_prefix_path.sh
+[1.138s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/environment/ament_prefix_path.dsv
+[1.138s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/environment/path.sh
+[1.138s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/environment/path.dsv
+[1.138s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/local_setup.bash
+[1.139s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/local_setup.sh
+[1.139s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/local_setup.zsh
+[1.139s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/local_setup.dsv
+[1.139s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/package.dsv
+[1.140s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/ament_index/resource_index/packages/action_tutorials_interfaces
+[1.140s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/cmake/action_tutorials_interfacesConfig.cmake
+[1.140s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/cmake/action_tutorials_interfacesConfig-version.cmake
+[1.140s] -- Installing: /home/beka/ros2_foxy/src/action_tutorials_interfaces/install/action_tutorials_interfaces/share/action_tutorials_interfaces/package.xml
+[1.142s] Invoked command in '/home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/beka/ros2_foxy/src/action_tutorials_interfaces/build/action_tutorials_interfaces
