@@ -1130,3 +1130,15 @@ ros2 run action_tutorials_cpp fibonacci_action_client
 ```
 
 
+```
+mkdir launch
+cd launch
+touch turtlesim_mimic_launch.py
+```
+```
+ros2 launch turtlesim_mimic_launch.py
+```
+![Screenshot from 2022-10-18 19-51-36](https://user-images.githubusercontent.com/91641488/196412675-478c09e3-5aaf-4697-9e6e-33ac4d481a24.png)
+
+
+[Screencast from 2022년 10월 18일 19시 51분 51초.webm](https://user-images.githubusercontent.com/91641488/196412627-7553b690-f419-42df-a1ec-453fbe07dcc1.webm)
