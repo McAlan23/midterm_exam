@@ -1,0 +1,8 @@
+{
+  "package_name": "tutorial_interfaces",
+  "non_idl_tuples": [
+    "/home/beka/ros2_foxy/src/tutorial_interfaces:msg/Num.msg",
+    "/home/beka/ros2_foxy/src/tutorial_interfaces:msg/Sphere.msg",
+    "/home/beka/ros2_foxy/src/tutorial_interfaces:srv/AddThreeInts.srv"
+  ]
+}
